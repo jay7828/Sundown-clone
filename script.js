@@ -67,7 +67,7 @@ function loaderAnimation(){
 
 setTimeout(function(){
     loader.style.top="-100%"
-},4000)
+},3400)
 }
 
 
